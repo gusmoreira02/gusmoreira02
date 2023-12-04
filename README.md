@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/guusmoreira02" target="blank"><img src="https://img.shields.io/twitter/follow/guusmoreira02?logo=twitter&style=for-the-badge" alt="guusmoreira02" /></a> </p>
 
+- 🔭 I’m currently working on [Departamento-de-Gestao-de-Pessoas-CVBC](https://github.com/Departamento-de-Gestao-de-Pessoas-CVBC)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guusmoreira02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guusmoreira02" height="30" width="40" /></a>
